@@ -604,7 +604,7 @@ void NFA2DFA(NFAStateID start_nfa_state)//need input start nfa state
 
 std::ostream& operator<<(std::ostream& os, const std::set<NFAStateID>& states)
 {
-    os << "{";
+    os << "{,";
     for (auto s : states)
     {
         auto state = LookUpNFAState(s);
