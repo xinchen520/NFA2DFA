@@ -95,3 +95,8 @@ start state, 1
 
 ![DFA2](/example3.svg)
 
+
+### 转换成图像
+
+你还可以将输出的DFA文件转换成图像, 详见[这里](https://github.com/xinchen520/NFA2DFA-Draw)
+
