@@ -89,9 +89,9 @@ start state, 1
 
 这对应着如下图的DFA
 
-![NFA](/example2.svg)
+![DFA](/example2.svg)
 
 或者
 
-![NFA](/example3.svg)
+![DFA2](/example3.svg)
 
